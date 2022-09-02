@@ -2,7 +2,7 @@
 
 **Dataset**: Demo dataset of a hardware company with multi-branches
 
-**Project Goal**
+**Project Goals**
 
 - To unlock sales insights that aren’t visible before & provide valuable insights about the sales performance.
 - An automated dashboard to uncover sales insights to help in taking better decisions.
